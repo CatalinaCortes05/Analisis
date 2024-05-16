@@ -24,9 +24,17 @@ Debe generar multas por devoluciones tardias según la politica de la biblioteca
 
 RF4: Gestión de Inventario
 El sistema debe mantener un registro actualizado de todos los libros en la biblioteca
+Debe permitir a los bibliotecarios agregar nuevos libros al inventario, incluyendo información detallada
+como ISBN, autor y año de punlicación.
+Debe permitir la eliminación de libros obsoletos o dañados del inventario.
+Debe proporcionar herramientas para realizar un seguimiento del estado fisico de los libros, como su ubicación en la biblioteca.
+Debe generar informes periodicos sobre el estado del inventario las tendencias del prestamo 
 
 Diagrama de clases 
-![Diagrama de clases ](DiagramaClases/clases.png)
+![Diagrama de clases](DiagramaClases/clases.png)
 
 Diagrama de secuencia 
 ![Diagrama de secuencia ](DiagramaSecuencia/secuencia.png)
+
+Diagrama de casos de usos 
+![Diagrama de casos de usos ](DiagramaCasosDeUsos/casodeusos.png)
